@@ -8,17 +8,18 @@
     <style>
         header{
             background-color: #183C63;
-            color:#FFFFFF
+            color: #FFFFFF;
             text-align: center;
             max-width: 800px;
-            margin: 0 auto;
-            border: 5px solid #9c1515;
+            margin: 0 auto;  
+            padding:16px;
         }
         main {
             background-color: #FFFFFF;
             color: #183C63;
             max-width: 800px;
             margin: 0 auto;
+            padding: 16px;
        }
 </style>
 </head>
