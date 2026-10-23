@@ -21,9 +21,7 @@
             margin: 0 auto;
             padding: 16px;
        }
-</style>
-</head>
-<body>
+       
 <header>
 <h1>Meu blog tech</h1>
 <p>Vou compartilhar conhecimentos sobre
