@@ -12,7 +12,8 @@
             text-align: center;
             max-width: 800px;
             margin: 0 auto;  
-            padding:16px;
+            padding: 16px;
+            border: 5px solid #8a1515; 
         }
         main {
             background-color: #FFFFFF;
